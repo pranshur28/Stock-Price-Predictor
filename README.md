@@ -111,6 +111,3 @@ Results and visualizations are saved in the `results/[TICKER]` directory, includ
 
 This tool is for educational purposes only. Financial markets are complex and unpredictable, and no prediction model can guarantee accurate results. Always consult with a financial advisor before making investment decisions.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
